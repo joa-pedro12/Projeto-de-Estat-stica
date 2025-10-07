@@ -1,6 +1,6 @@
 # Profissão Cientista de Dados — Projeto Módulo 13
 
-**Descrição curta**  
+  
 Este projeto apresenta uma análise exploratória de um dataset de produtos (preços, descontos, categorias etc.), com cálculos estatísticos e visualizações para investigar padrões de preço, variabilidade e descontos por categoria e marca.
 
 ---
